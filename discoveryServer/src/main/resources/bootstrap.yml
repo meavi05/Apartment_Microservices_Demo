@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: discovery-server
+  cloud:
+    config:
+      #uri:  http://host.docker.internal:8091
+       uri: http://localhost:8091
+     
+ 
+  
+
